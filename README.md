@@ -1,3 +1,3 @@
 # Frontendd
-лабораторные 1-5
+лабораторные 5
 https://andreikotkin.github.io/Frontendd/
